@@ -2,6 +2,6 @@ import React from 'react'
 // Abdushukur
 export default function Contact() {
   return (
-    <div>Contact gdw</div>
+    <div className='bg-red-500'>Contact gdw</div>
   )
 }
